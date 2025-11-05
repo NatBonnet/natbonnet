@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi! I'm Nathalie Bonnet (silent h and pronounced like Bo-nay)!
+---
+🔭 Current work
+I am a Master's of Environmental Data Science student at the Bren School of Environmental Science and Management at UCSB. I am also currently working as a data science intern at the National Center for Environmental Analysis and Synthesis. 
 
-<!--
-**NatBonnet/natbonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 My interests
+I have a background in pollinator climate resilience, and am interested in continuing researching the intersection between pollinator conservation and food security. My previous experiences have also fueled interest in disease entomology and the field as it relates to climate change. 
 
-Here are some ideas to get you started:
+💬 Contact me
+[Linkedin](https://www.linkedin.com/in/nathalie-bonnet-78a5a02b5/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
